@@ -1,0 +1,16 @@
+a = 42;
+console.log("42 -->",typeof a);
+b = "Bonjour";
+console.log("Bojour -->",typeof b);
+c = true;
+console.log("true -->",typeof c);
+d = null;
+console.log("null -->",typeof d);
+let e ;
+console.log("undefined -->",typeof e);
+f = [1, 2, 3];
+console.log("[1, 2, 3 -->]",typeof f);
+g = { nom: "Ali"};
+console.log("[object object --> ]",typeof g);
+h = NaN;
+console.log("NaN -->" ,typeof h); 
